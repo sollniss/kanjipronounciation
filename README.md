@@ -5,7 +5,8 @@ A script to pronounce kanji. Mainly for use in Anki.
 
 **This also uses your phones data.**
 
-# Usage:
+ Usage:
+ -----
 ``
 <span onClick="playAudio('{{Kanji}}','{{Hiragana}}')">{{Kanji}} - {{Hiragana}}</span>
 ``
