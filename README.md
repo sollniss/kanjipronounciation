@@ -1,7 +1,7 @@
 # kanjipronounciation
 A script to pronounce kanji. Mainly for use in Anki.
 
-**Only works on mobile because Anki desktop doesn't support HTML5 audio tags**
+**Only works on mobile because Anki desktop doesn't support HTML5 audio tags.**
 
 **This also uses your phones data.**
 
