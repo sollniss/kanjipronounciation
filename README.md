@@ -8,6 +8,7 @@ Usage:
 ``
 <span onClick="playAudio('{{Kanji}}','{{Hiragana}}')">{{Kanji}} - {{Hiragana}}</span>
 ``
+
 Support `, ` and ` / ` as separators for multiple readings.
 
 寒い - さむい, さぶい
