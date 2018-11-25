@@ -10,7 +10,7 @@ A script to pronounce kanji. Mainly for use in Anki.
 <span onClick="playAudio('{{Kanji}}','{{Hiragana}}')">{{Kanji}} - {{Hiragana}}</span>
 ``
 
-Support ", " and " / " as separators for multiple readings.
+Supports ", " and " / " as separators for multiple readings.
 
 寒い - さむい, さぶい  
 This will play さむい but not さぶい, because さぶい isn't in the database.
